@@ -2,7 +2,7 @@
 
 Mesh is a build system for C and C++ projects. It’s currently under active development and aims to make building small to medium-sized projects simpler using a clean TOML-based configuration.
 
-> ⚠️ **Note:** Mesh is still in development, so expect bugs and breaking changes. It’s not recommended yet for large or production-critical projects.
+> ⚠️ **Note:** Mesh is still in development (I'm planning a Rust rewrite of this), so expect bugs and breaking changes. It’s not recommended yet for large or production-critical projects.
 
 ---
 
