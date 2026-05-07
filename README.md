@@ -9,7 +9,7 @@ Mesh is a lightweight build system for C and C++ projects. It’s currently unde
 ## Features
 
 * Simple CLI tool
-* TOML-based configuration (`mesh.toml`)
+* TOML-based configuration (`mesh.toml`) using [toml++](https://github.com/marzer/tomlplusplus)
 * Supports C and C++ projects
 * C++20 standard support
 * Works with any compiler that supports C++20
